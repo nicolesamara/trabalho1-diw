@@ -1,0 +1,33 @@
+{
+    "filmes": [
+
+        {
+            "titulo": "Batman",
+            "imagem": "imagens/batman.jpg",
+            "categoria": "Ação",
+            "nota": "9.0"
+        },
+
+        {
+            "titulo": "Interstellar",
+            "imagem": "imagens/interstellar.jpg",
+            "categoria": "Ficção Científica",
+            "nota": "9.5"
+        },
+
+        {
+            "titulo": "Before Sunrise",
+            "imagem": "imagens/before.jpg",
+            "categoria": "Romance",
+            "nota": "8.8"
+        },
+
+        {
+            "titulo": "Spider-Man",
+            "imagem": "imagens/spiderman.jpg",
+            "categoria": "Ação",
+            "nota": "8.9"
+        }
+
+    ]
+}
